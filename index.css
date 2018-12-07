@@ -1,0 +1,8 @@
+.fa-star{
+  margin: 0 auto;
+  padding-top: 1rem; 
+};
+
+.fa-star:hover{
+    color:rgba(123,345,44,0.6);
+};
